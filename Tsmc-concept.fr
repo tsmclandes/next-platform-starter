@@ -1,0 +1,75 @@
+!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TSMC SARL - Tuyauterie, Soudure & Métallerie dans les Landes (40)</title>
+  <meta name="description" content="Entreprise spécialisée en tuyauterie industrielle, soudure acier/inox et métallerie sur mesure à Le Vignau, Landes (40). Interventions rapides en Nouvelle-Aquitaine.">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="logo-tsmc.png" alt="Logo TSMC SARL" class="logo">
+      <nav>
+        <ul>
+          <li><a href="#accueil">Accueil</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#zone">Zones</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="accueil" class="hero">
+      <h1>TSMC SARL</h1>
+      <p>Tuyauterie, soudure & métallerie dans les Landes (40)</p>
+      <p>Intervention rapide dans toute la Nouvelle-Aquitaine</p>
+    </section>
+
+    <section id="services" class="section">
+      <h2>Nos Services</h2>
+      <ul>
+        <li>Tuyauterie industrielle acier / inox / galvanisé</li>
+        <li>Soudure TIG, MIG, MAG</li>
+        <li>Montage de structures métalliques</li>
+        <li>Maintenance industrielle</li>
+        <li>Fabrication sur mesure en atelier</li>
+      </ul>
+    </section>
+
+    <section id="zone" class="section">
+      <h2>Zones d'intervention</h2>
+      <p>Basés à Le Vignau (Landes - 40), nous intervenons dans toute la région Nouvelle-Aquitaine :</p>
+      <ul>
+        <li>Dax</li>
+        <li>Mont-de-Marsan</li>
+        <li>Bayonne</li>
+        <li>Pau</li>
+        <li>Bordeaux</li>
+        <li>Agen</li>
+        <li>Et alentours...</li>
+      </ul>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contactez-nous</h2>
+      <p><strong>Adresse :</strong> 312 Avenue de Chalampé, 40270 Le Vignau</p>
+      <p><strong>Téléphone :</strong> <a href="tel:+33600000000">06 00 00 00 00</a></p>
+      <p><strong>Email :</strong> <a href="mailto:contact@tsmc-concept.fr">contact@tsmc-concept.fr</a></p>
+      <form>
+        <input type="text" placeholder="Nom" required />
+        <input type="email" placeholder="Email" required />
+        <textarea placeholder="Votre message"></textarea>
+        <button type="submit">Envoyer</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TSMC SARL - Tous droits réservés</p>
+  </footer>
+</body>
+</html>
